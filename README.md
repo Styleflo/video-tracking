@@ -5,7 +5,7 @@
 
 ## 📖 Description du projet
 
-Notre projet est une application capable de détecter et de suivre un ou plusieurs objets au sein d'une séquence vidéo. 
+### Notre projet est une application IA capable de détecter et de suivre un ou plusieurs objets au sein d'une séquence vidéo. 
 
 
 ## 🚀 Fonctionnalités
